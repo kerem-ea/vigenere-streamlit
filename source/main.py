@@ -1,9 +1,9 @@
 import streamlit as st
 
-st.title("🔐 Vigenere-kryptering")
+st.title("Vigenere-kryptering")
 st.write(
     """
-    Dette projekt handler om **Vigenère-kryptering**, en klassisk polyalfabetisk krypteringsmetode.
+    Dette projekt handler om **Vigenere-kryptering**.
     Den blev opfundet i det 16. århundrede og bruger en gentagen nøgle til at forskyde bogstaverne
     i en besked.  
 
